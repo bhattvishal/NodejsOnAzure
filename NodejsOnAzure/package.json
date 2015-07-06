@@ -1,0 +1,15 @@
+{
+  "name": "NodejsOnAzure",
+  "version": "0.0.0",
+  "description": "NodejsOnAzure",
+  "main": "app.js",
+  "author": {
+    "name": "E5252376",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
